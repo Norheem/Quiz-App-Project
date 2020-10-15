@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Qiuz App</string>
+    <string name="instruction">Answer the following questions...</string>
+    <string name="question1">1.  What is a noun?</string>
+    <string name="option1A">A name of any person</string>
+    <string name="option1B"> I don\'t know</string>
+    <string name="option1C"> My name</string>
+    <string name="option1D">A name of any person, animal, place or things</string>
+    <string name="question2">2. What is a verb?</string>
+    <string name="option2A">An action word</string>
+    <string name="option2B">Playing</string>
+    <string name="option2C">A action word</string>
+    <string name="option2D">A sweet word</string>
+    <string name="question3">3.  This __ a ball</string>
+    <string name="option3A">an</string>
+    <string name="option3B">is</string>
+    <string name="option3C">of</string>
+    <string name="option3D">on</string>
+    <string name="question4">4.  What __ you doing?</string>
+    <string name="option4A">are</string>
+    <string name="option4B">is</string>
+    <string name="option4C">on</string>
+    <string name="option4D">I</string>
+    <string name="question5">5.  What __ your name?</string>
+    <string name="option5A">in</string>
+    <string name="option5B">at</string>
+    <string name="option5C">is</string>
+    <string name="option5D">we</string>
+    <string name="submit_answer">SUBMIT </string>
+</resources>
